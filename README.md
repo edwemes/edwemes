@@ -5,15 +5,13 @@
 
 ## 🚀 About Me
 
-> **Architect turned Full-Stack Developer with 5+ years of experience in software development and 15+ years in project management.**
-> 
-> 🔹 Bridging the gap between **architecture, technology, and business** to create innovative solutions.
-> 🔹 Specializing in AI-driven **PropTech & ConTech** solutions for smarter urban development.
-> 🔹 Aspiring **Product Engineer**, blending **AI, full-stack expertise, and product thinking**.
-> 🔹 Expertise in designing scalable **microservices**, **MVC architectures**, and **modern web applications (SPA & PWA)**.
-> 🔹 Strong experience with **Authentication (JWT, OAuth)** and **Building Information Modeling (BIM)**.
-> 🔹 Experience in **SCRUM** methodologies for Agile development.
-> 🔹 Deep understanding of **Object-Oriented Programming (OOP)** and **SOLID principles**.
+> **💡 Architect turned Full-Stack Developer** with **5+ years** in software development and **15+ years** in project management.  
+>
+> 🔗 Bridging **architecture, technology, and business** to craft **scalable, AI-driven solutions** in **PropTech & ConTech**.  
+>  
+> 🛠 Specializing in **product engineering**, **agile methodologies**, and **modern software design principles**—leveraging **microservices, serverless and event-driven architectures,** and **cloud-native paradigms** to drive digital transformation.  
+>  
+> 🏗 Backed by deep expertise in **Building Information Modeling (BIM)** and the **AEC industry**, I develop **intelligent applications** that optimize the entire **real estate lifecycle**—from **planning and estimation to design and construction**—delivering **measurable gains in efficiency, cost, and project execution**.
 
 ---
 
